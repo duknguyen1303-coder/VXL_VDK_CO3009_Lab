@@ -98,7 +98,7 @@ int main(void)
 	  HAL_GPIO_WritePin ( Red_LED_GPIO_Port , Red_LED_Pin , SET);
 	  HAL_GPIO_WritePin ( Yellow_LED_GPIO_Port , Yellow_LED_Pin , SET);
 
-	  HAL_GPIO_WritePin (  Red_LED_GPIO_Port , Red_LED_Pin , RESET );
+	  HAL_GPIO_WritePin ( Red_LED_GPIO_Port , Red_LED_Pin , RESET );
 	  HAL_Delay (2000) ;
 	  HAL_GPIO_WritePin ( Red_LED_GPIO_Port , Red_LED_Pin , SET);
 
