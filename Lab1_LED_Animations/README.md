@@ -1,3 +1,4 @@
+HEAD
 # Lab 1: LED Animations
 
 Nguồn: HCMUT - Computer Engineering, môn Microcontroller
@@ -82,3 +83,5 @@ Tại 1 thời điểm, chỉ có đúng 3 LED sáng, tương ứng với giờ 
 Sử dụng lại các hàm: clearAllClock, setNumberOnClock, clearNumberOnClock từ Exercise 7-9.
 
 - Nộp toàn bộ source code hệ thống hoàn chỉnh.
+
+
